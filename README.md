@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <img src="https://i.imgur.com/2Jme4Bc.gif" width="750"/>
-<h1>
-  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yelaman
-</h1>
 </div>
+
+  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yelaman
+
 
 Backend Developer
 -----------------
@@ -38,5 +38,3 @@ I am a beginning programmer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <a href="http://www.github.com/Yee1aS"><img src="https://github-readme-stats.vercel.app/api?username=Yee1aS&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Yee1aS's GitHub stats" /></a>
 
 <a href="http://www.github.com/Yee1aS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Yee1aS&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Yee1aS"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Yee1aS&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
