@@ -8,7 +8,7 @@
 Backend Developer
 -----------------
 ### About me
-I am a beginning programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 🇰🇿.
+I am a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 🇰🇿.
 * 🧑‍🎓 I'm student of IITU (International Information Technology University)
 * 🌍  I'm based in Kazakhstan, Almaty
 * ✉️  You can contact me at [yeelaskz03@mail.ru](mailto:yeelaskz03@mail.ru)
