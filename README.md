@@ -12,7 +12,7 @@ I am a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 * 🧑‍🎓 I'm student of IITU (International Information Technology University)
 * 🌍  I'm based in Kazakhstan, Almaty
 * ✉️  You can contact me at [yeelaskz03@mail.ru](mailto:yeelaskz03@mail.ru)
-* 🧠  I'm learning Golang
+* 🧠  I'm learning Golang now!
 * 🤝  I'm open to collaborating on projects
 * ⚡  In my free time, I enjoy practicing calisthenics to stay active and healthy!. I'm Kazakh and yes, I like to eat horse meat)
 
