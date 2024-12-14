@@ -5,14 +5,13 @@
   Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yelaman
 
 
-Backend Developer
+Frontend Developer
 -----------------
 ### About me
 I am a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 🇰🇿.
 * 🧑‍🎓 I'm student of IITU (International Information Technology University)
 * 🌍  I'm based in Kazakhstan, Almaty
 * ✉️  You can contact me at [yee1as555@mail.ru](mailto:yee1as555@mail.ru)
-* 🧠  I'm learning Golang now!
 * 🤝  I'm open to collaborating on projects
 * ⚡  In my free time, I enjoy practicing calisthenics to stay active and healthy!. I'm Kazakh and yes, I like to eat horse meat)
 
