@@ -9,7 +9,7 @@ Frontend Developer
 -----------------
 ### About me
 I am a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 🇰🇿.
-* 🧑‍🎓 I'm student of IITU (International Information Technology University)
+* 🧑‍🎓 I'm student of IITU (International Information Technology University) 2021-2025
 * 🌍  I'm based in Kazakhstan, Almaty
 * ✉️  You can contact me at [yee1as555@mail.ru](mailto:yee1as555@mail.ru)
 * 🤝  I'm open to collaborating on projects
